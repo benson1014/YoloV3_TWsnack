@@ -1,0 +1,4 @@
+person 0.9820 81 43 428 335
+pottedplant 0.0012 23 18 417 337
+diningtable 0.0013 23 18 417 337
+tvmonitor 0.0074 18 41 423 340

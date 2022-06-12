@@ -1,0 +1,6 @@
+boat 0.0020 38 -5 460 403
+pottedplant 0.1755 38 -5 460 403
+diningtable 0.3315 38 -5 460 403
+diningtable 0.0012 36 -17 459 173
+diningtable 0.0010 -71 36 270 358
+diningtable 0.0010 -31 -102 517 194

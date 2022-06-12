@@ -1,0 +1,5 @@
+Rice_with_Shredded_Chicken 0.9836 264 85 622 432
+Rice_with_Shredded_Chicken 0.7467 669 165 791 473
+Rice_with_Shredded_Chicken 0.0212 713 131 807 509
+wagui 0.0019 664 154 796 485
+wagui 0.0014 245 78 642 433

@@ -1,0 +1,15 @@
+motorbike 0.0077 33 -17 357 441
+bottle 0.0016 281 -7 411 20
+chair 0.0589 33 -17 357 441
+chair 0.0049 319 77 387 401
+pottedplant 0.0205 -34 14 152 318
+pottedplant 0.0138 33 -17 357 441
+pottedplant 0.0044 -68 0 488 196
+diningtable 0.2993 25 -34 368 300
+diningtable 0.0635 -79 -3 485 199
+diningtable 0.0075 28 77 361 492
+diningtable 0.0067 319 77 387 401
+diningtable 0.0040 -34 14 152 318
+diningtable 0.0015 -112 325 486 493
+diningtable 0.0011 -43 244 122 417
+tvmonitor 0.0016 33 -17 357 441

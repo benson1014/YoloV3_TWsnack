@@ -1,0 +1,6 @@
+motorbike 0.0011 33 30 299 300
+aeroplane 0.0019 35 29 298 208
+chair 0.0064 33 30 299 300
+pottedplant 0.0024 33 30 299 300
+diningtable 0.0368 33 30 299 300
+tvmonitor 0.0014 33 30 299 300

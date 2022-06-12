@@ -1,0 +1,3 @@
+Kongrou 0.0010 150 59 749 553
+Rice_with_Shredded_Chicken 0.9450 134 73 761 548
+wagui 0.0013 150 59 749 553

@@ -1,0 +1,3 @@
+Kongrou 0.5467 882 481 2472 1469
+Kongrou 0.0156 609 644 2306 1929
+Rice_with_Shredded_Chicken 0.0010 836 494 2527 1644

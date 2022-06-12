@@ -1,0 +1,5 @@
+Rouzaofun 0.2796 21 51 195 168
+Rouzaofun 0.0074 45 2 183 40
+Rouzaofun 0.0023 146 -2 270 199
+Rouzaofun 0.0017 30 27 264 200
+Rouzaofun 0.0015 184 6 258 103
